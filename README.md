@@ -7,3 +7,5 @@ https://github.com/ezhovapolina/hw6/blob/master/zg1.pdf
 https://github.com/ezhovapolina/hw6/blob/master/zg2.pdf
 
 https://github.com/ezhovapolina/hw6/blob/master/zg4.pdf
+
+https://github.com/ezhovapolina/hw6/blob/master/zg3.pdf
