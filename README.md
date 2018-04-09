@@ -9,3 +9,4 @@
 
 ![https://github.com/ezhovapolina/hw6/blob/master/zg3.jpg](https://github.com/ezhovapolina/hw6/blob/master/zg3.jpg)
 
+![https://github.com/ezhovapolina/hw6/blob/master/zg4.jpg](https://github.com/ezhovapolina/hw6/blob/master/zg4.jpg)
